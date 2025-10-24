@@ -1,5 +1,5 @@
 {
-  "functions": {
+  {
     "api/prices.js": { "memory": 512, "maxDuration": 10 }
   }
 }
